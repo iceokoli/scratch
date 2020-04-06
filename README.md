@@ -1,2 +1,2 @@
 # scratch
-miscellaneous notebook and scripts
+miscellaneous notebook and scripts for adhoc analysis
