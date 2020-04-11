@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/iceok/Documents/git/scratch/LearningTensorFlow/mlruns/0/4b91a14dfc4d421ba700fe767af96107/artifacts
+end_time: 1586563340821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4b91a14dfc4d421ba700fe767af96107
+run_uuid: 4b91a14dfc4d421ba700fe767af96107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1586563340733
+status: 3
+tags: []
+user_id: iceok

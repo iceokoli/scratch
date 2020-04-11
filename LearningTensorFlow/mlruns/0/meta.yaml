@@ -1,0 +1,5 @@
+artifact_location: file:///C:/Users/iceok/Documents/git/scratch/LearningTensorFlow/mlruns/0
+experiment_id: '0'
+lifecycle_stage: active
+name: Lending Club Default
+tags: {}
