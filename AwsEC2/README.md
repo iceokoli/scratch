@@ -15,10 +15,11 @@ Things to note:
 
 ## User Data
 
-This is to ensure python and jupyter are installed
+This is to ensure python and jupyter are installed, if using an ubuntu AMI.
 
 ```zsh
 #!/bin/bash
-sudo yum install python3 python3-virtualenv python3-pip -y
-sudo pip3 install jupyter
+sudo apt update
+sudo apt install python3-pip
+pip3 install jupyter --userpyth
 ```
