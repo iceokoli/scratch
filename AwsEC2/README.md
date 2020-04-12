@@ -21,5 +21,5 @@ This is to ensure python and jupyter are installed, if using an ubuntu AMI.
 #!/bin/bash
 sudo apt update
 sudo apt install python3-pip
-pip3 install jupyter --userpyth
+pip3 install jupyter --user
 ```
