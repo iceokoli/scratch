@@ -13,6 +13,11 @@ jupyter notebook --no-browser --port 8888
 Things to note:
 - ensure your security group allows access from your current ip address
 
+## Get data onto the instance
+```zsh
+scp -i /path/my-key-pair.pem /path/SampleFile.txt ec2-user@ec2-198-51-100-1.compute-1.amazonaws.com:~
+```
+
 ## User Data
 
 This is to ensure python and jupyter are installed, if using an ubuntu AMI.
