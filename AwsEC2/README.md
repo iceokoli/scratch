@@ -20,6 +20,6 @@ This is to ensure python and jupyter are installed, if using an ubuntu AMI.
 ```zsh
 #!/bin/bash
 sudo apt update
-sudo apt install python3-pip
+sudo apt install python3-pip -Y
 pip3 install jupyter --user
 ```
