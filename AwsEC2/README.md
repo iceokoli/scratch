@@ -20,5 +20,5 @@ This is to ensure python and jupyter are installed
 ```zsh
 #!/bin/bash
 sudo yum install python3 python3-virtualenv python3-pip -y
-sudo pip install jupyter
+sudo pip3 install jupyter
 ```
