@@ -17,6 +17,11 @@ Things to note:
 ```zsh
 scp -i /path/my-key-pair.pem /path/SampleFile.txt ec2-user@ec2-198-51-100-1.compute-1.amazonaws.com:~
 ```
+## Get data From S3 bucket
+- Set up the aws cli on your EC2 instance
+```zsh
+[ec2-user ~]$ aws s3 sync s3://remote_S3_bucket local_directory
+```
 
 ## User Data
 
