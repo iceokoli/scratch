@@ -18,5 +18,5 @@ def replay():
     return jsonify(request.get_json())
 
 
-# export FLASK_APP=flaskblog.py
+# export FLASK_APP=flaskbasic.py
 # export FLASK_ENV=development
